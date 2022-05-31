@@ -1,7 +1,8 @@
-package com.rodrigo.eventos
+package com.rodrigo.eventos.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.rodrigo.eventos.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

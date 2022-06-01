@@ -56,4 +56,4 @@ Como pode ser visto na imagem anterior, a arquitetura divide-se em três camadas
 - [Valifi](https://github.com/mlykotom/valifi) Usada para validação de formulário.
 
 [apk-download]: https://img.shields.io/badge/download%20apk-DEBUG-blue.svg?style=for-the-badge&logo=android
-[apk-download-url]: https://github.com/rodrigobn/desafio-sicred-app/releases/download/1.0.0/sicredi-test_v1.0.0-debug.apk
+[apk-download-url]: https://github.com/rodrigobn/desafio-sicred-app/releases/download/1.0.0/app-debug.apk

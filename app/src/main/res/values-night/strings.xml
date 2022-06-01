@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Eventos</string>
 
     <string name="title_home">Home</string>
     <string name="title_search">Busca</string>
@@ -35,8 +35,5 @@
     <string name="message_error_400">A operação não pode ser completada. Forneça todas as informações solicitadas e tente novamente</string>
     <string name="message_error_500">Ocorreu um erro na comunicação com o servidor. Por favor, tente novamente mais tarde</string>
     <string name="message_events_no_data">Não foi possível encontrar eventos…</string>
-
-
-    <string name="google_maps_key" translatable="false">AIzaSyBvEeIM-huBCtPUe79UCC8mnSf8NivPyjA</string>
 
 </resources>
